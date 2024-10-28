@@ -145,7 +145,7 @@ int main(int argc, char* argv[]) {
   }
 
   if (argc < 3) {
-    printf("Usage: %s <file1> <file2> [--width <number>]\n", argv[0]);
+    printf("Usage: %s <file1> <file2> [--width <number>]\n", "diffly");
     return 1;
   }
 
